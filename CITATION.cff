@@ -1,0 +1,19 @@
+
+cff-version: 1.2.0
+title: >-
+  Code for: Flocking by stopping - a mechanism of emergent
+  order in collective movement
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Yogesh
+    family-names: Kumar KC
+    orcid: 'https://orcid.org/0009-0009-7564-5464'
+  - given-names: Arshed
+    family-names: Nabeel
+    orcid: 'https://orcid.org/0000-0001-9750-9070'
+doi: 10.5281/zenodo.18346437
+date-released: 2026-1-23
+url: 'https://github.com/tee-lab/pair_stop_paper'
