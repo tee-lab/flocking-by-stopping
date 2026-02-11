@@ -1,5 +1,7 @@
 ## Codes for "Flocking by stopping -- a mechanism of consensus in collective movement."
 
+This respository contains the code for the paper: _Flocking by stopping -- a mechanism of consensus in collective movement_ (https://doi.org/10.1103/lnrz-wrf4)
+
 ### Codes
 1. A Python code (`phaseplane.py`) to calculate and plot the phase plane of the ordinary differential equations of the pairwise stop model.
    The output is a phase plane with axes polarization(m) and average speed(v), in Figure 2 of the manuscript
